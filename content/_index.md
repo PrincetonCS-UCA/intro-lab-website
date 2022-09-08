@@ -1,6 +1,6 @@
 **Head TAs: Diana Espindola & Austin Li**
 
-You've arrived at the website for Princeton University's Department of Computer Science's Intro CS Lab **hosted is Lewis Library, rooms 121 and 122**. Come to get help with programming assignments and exams in any of the courses of the introductory COS curriculum (COS 109, 126, 217, and 226).
+You've arrived at the website for Princeton University's Department of Computer Science's Intro CS Lab **hosted in Lewis Library, rooms 121 and 122**. Come to get help with programming assignments and exams in any of the courses of the introductory COS curriculum (COS 109, 126, 217, and 226).
 
 # Useful Links
 
