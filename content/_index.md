@@ -15,13 +15,13 @@ You've arrived at the website for Princeton University's Department of Computer 
 - If you have any issues or concerns with the lab TA queue, please email Diana Espindola at de12@princeton.edu.
 
 
-# Spring 2022 Schedule - All Times in EST
+# Fall 2022 Schedule - All Times in EST
 
 |                                   | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |:---------------------------------:|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
 | 126 and 226/217 lab TAs available | 7-11pm |  7-11pm |   7-11pm  |  7-11pm  | 7-11pm |   3-7pm  | 5-11pm |
 
-Lab TAs will be available virtually at [labqueue.io](https://www.labqueue.io/queues/intro-cs-lab/queue/) and in person in Lewis Library, rooms 121 and 122. Once you arrive in Lewis, to request help from the Lab TAs, go to [labqueue.io](https://www.labqueue.io/queues/intro-cs-lab/queue/).
+Lab TAs will be available virtually at [labqueue.io](https://www.labqueue.io/queues/intro-cs-lab/queue/) Mondays through Thursdays and in person in Lewis Library, rooms 121 and 122, Fridays through Sundays. Once you arrive in Lewis, to request help from the Lab TAs, go to [labqueue.io](https://www.labqueue.io/queues/intro-cs-lab/queue/).
 
 
---Last updated 13 February 2022. Web manager: `de12@`
+--Last updated 8 September 2022. Web manager: `de12@`
