@@ -1,8 +1,8 @@
 +++
-title = "Information for those who want to be an INTRO LAB TA!"
+title = "Information about Becoming an Intro Lab TA"
 authors = ["Julia Ruskin"]
 date = "2021-01-29"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "Some information and tips, in case you are considering applying for the job of Intro Lab TA."
 tags = [
     "intro-lab",
     "applying-job",
