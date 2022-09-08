@@ -9,7 +9,7 @@ theme = 'hugo-bearblog'
 author = "Department of Computer Science, Princeton University"
 copyright = "Copyright © 2022, Department of Computer Science, Princeton University."
 languageCode = "en-US"
-title = "Intro CS Lab"
+title = "Intro COS Lab"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -40,7 +40,7 @@ images = ["images/share.png"]
 # Another "title" :-). This one is used as the site_name on the Hugo's internal
 # opengraph structured data template.
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Intro CS Lab"
+title = "Intro COS Lab"
 
 # This theme will, by default, inject a made-with-line at the bottom of the page.
 # You can turn it off, but we would really appreciate if you don’t :-).
