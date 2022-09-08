@@ -154,6 +154,10 @@ table {
   font-size: 0.8em;
 }
 
+.made-with {
+  font-size: 0.5em;
+}
+
 /* Author lists as comma separated */
 
 .author-list {
