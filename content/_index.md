@@ -21,7 +21,7 @@ You've arrived at the website for Princeton University's Department of Computer 
 |:---------------------------------:|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
 | 126 and 226/217 lab TAs available | 7-11pm |  7-11pm |   7-11pm  |  7-11pm  | 7-11pm |   3-7pm  | 5-11pm |
 
-Lab TAs will be available virtually at [labqueue.io](https://www.labqueue.io/queues/intro-cs-lab/queue/) Tuesday through Thursdays and in person in Lewis Library, rooms 121 and 122, Fridays through Mondays. Once you arrive in Lewis, to request help from the Lab TAs, go to [labqueue.io](https://www.labqueue.io/queues/intro-cs-lab/queue/). Please note that Lab TAs focus *ONLY* on debugging questions with existing code, all other questions should be redirected to Ed or office hours (more info [here](https://www.cs.princeton.edu/courses/archive/fall22/cos126/resources/).
+Lab TAs will be available virtually at [labqueue.io](https://www.labqueue.io/queues/intro-cs-lab/queue/) Tuesday through Thursdays and in person in Lewis Library, rooms 121 and 122, Fridays through Mondays. Once you arrive in Lewis, to request help from the Lab TAs, go to [labqueue.io](https://www.labqueue.io/queues/intro-cs-lab/queue/). Please note that Lab TAs focus *ONLY* on debugging questions with existing code, all other questions should be redirected to Ed or office hours (more info [here](https://www.cs.princeton.edu/courses/archive/fall22/cos126/resources/).).
 
 
 --Last updated 9 September 2022. Web manager: `de12@`
