@@ -11,7 +11,7 @@ You've arrived at the website for Princeton University's Department of Computer 
 
 # Announcements
 
-- The lab will open September 9, following the schedule below.
+- The lab will be closed for Fall Break from October 11 to October 23.
 - If you have any issues or concerns with the lab TA queue, please email Diana Espindola at de12@princeton.edu.
 
 
