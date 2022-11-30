@@ -36,7 +36,9 @@ tags = [
 **During the semester:**
 
 - make announcements to students and Intro Lab TAs
-  - usually just when is the lab close for breaks
+  - when is the lab close for breaks
+  - when running a satisfaction survey
+  - when job applications open up
 - check attendance
   - create an absence form that TAs fill out whenever they miss a shift, regardless of if they get a sub/swap; this way TAs can declare ahead of time if they are going to miss, and it's in our records
   - [QTrack](https://github.com/PrincetonCS-UCA/QTrack) is a nice tool for looking at the students each TA has helped 
