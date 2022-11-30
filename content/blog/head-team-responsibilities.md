@@ -1,18 +1,19 @@
 +++
-title = "Responsibilities of the Intro COS Lab Head Team."
-authors = ["Jérémie Lumbroso, Austin Li"]
+title = "Responsibilities of the Intro COS Lab Head Team"
+authors = ["Jérémie Lumbroso", "Austin Li"]
 date = "2022-11-24"
 description = "This page recapitulates all the responsabilities of the Head Team for the Intro COS Lab."
 tags = [
     "intro-lab",
     "job-description",
+    "head-team",
 ]
 +++
 
 **Once a semester:**
 
 - interview Lab TAs
-  - hire interviewers
+  - hire [interviewers](https://introlab.cs.princeton.edu/responsibilities-of-the-intro-cos-lab-interviewers/)
   - schedule interviews
     - go through TigerUHR applications and select students to interview; students can list if 126 Lab TA or 226/217 Lab TA is one of their most preferred
     - note that for returning Lab TAs, we don't reinterview; just check their attendance from last semester and make a decision
