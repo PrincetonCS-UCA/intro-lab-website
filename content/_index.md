@@ -11,6 +11,7 @@ You have arrived at the website for Princeton University's Department of Compute
 
 # Announcements
 
+- The last shift for Fall 2022 will be on [Dean's Date](https://registrar.princeton.edu/academic-calendar-and-deadlines), Friday December 16.
 - The lab will be closed for Thanksgiving Break from November 22 to November 27.
 - If you have any issues or concerns with the lab TA queue, please email Diana Espindola at de12@princeton.edu.
 
