@@ -37,6 +37,7 @@ tags = [
 
 - make announcements to students and Intro Lab TAs
   - when is the lab close for breaks
+  - when the lab closes for the term (Dean's Date)
   - when running a satisfaction survey
   - when job applications open up
 - check attendance
