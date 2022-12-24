@@ -11,9 +11,9 @@ You have arrived at the website for Princeton University's Department of Compute
 
 # Announcements
 
-- If you are interested in working as an Intro Lab TA, [submit your notice of interest](https://ugradjobs.cs.princeton.edu/posts/2022-12-02-recruiting-ucas-for-spring-2023/) and will be in touch as soon as applications open in the first half of January 2023.
-- The Intro Lab is now closed for the semester. We will reopen at the beginning of February 2023. Happy holidays!
-- If you have any issues or concerns with the lab TA queue, please email Diana Espindola at de12@princeton.edu.
+- 🙋 **Want to become an Intro Lab TA?** Either [read more about the job](/information-about-becoming-an-intro-lab-ta/) or [submit your notice of interest](https://ugradjobs.cs.princeton.edu/posts/2022-12-02-recruiting-ucas-for-spring-2023/), we'll be in touch when hiring opens in mid-January 2023!
+- ☃️ The Intro Lab is now closed for the semester. We will reopen at the beginning of February 2023. Happy holidays!
+- ⚠️ If you have any issues or concerns with the lab TA queue, please email Diana Espindola at de12@princeton.edu.
 
 # Fall 2022 Schedule - All Times in EST
 
