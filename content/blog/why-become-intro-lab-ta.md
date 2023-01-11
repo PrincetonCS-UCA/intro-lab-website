@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-If you want to be notified when Spring 2023 applications will open, [https://ugradjobs.cs.princeton.edu/posts/2022-12-02-recruiting-ucas-for-spring-2023/](submit a notice of interest here)! We'll be in touch when hiring opens in mid-January 2023.
+If you want to be notified when Spring 2023 applications will open, [submit a notice of interest here](https://ugradjobs.cs.princeton.edu/posts/2022-12-02-recruiting-ucas-for-spring-2023/)! We'll be in touch when hiring opens in mid-January 2023.
 
 ## Why would you want to be a lab TA?
 
