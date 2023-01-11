@@ -49,3 +49,9 @@ tags = [
 **Once a year:**
 
 - hire next Intro COS Lab Head Team
+- transition checklist
+  - add to the #lab-management channel in Slack
+  - TigerUHR access for viewing and hiring applicants for 126 and 2xx Lab TAs
+  - add to the PrincetonCS-UCA Github org so can update website
+  - get labqueue API key
+  - make sure hired as Undergraduate Manager on TimesheetX
