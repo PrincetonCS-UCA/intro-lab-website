@@ -11,6 +11,8 @@ tags = [
 
 If you want to be notified when Spring 2023 applications will open, [submit a notice of interest here](https://ugradjobs.cs.princeton.edu/posts/2022-12-02-recruiting-ucas-for-spring-2023/)! We'll be in touch when hiring opens in mid-January 2023.
 
+You can also learn about [all the other Undergraduate Course Assistant (UCA) position in the Department of Computer Science](https://ugradjobs.cs.princeton.edu/docs/applicants/jobs/).
+
 ## Why would you want to be a lab TA?
 
 - It's rewarding to help people! Yaaay!
