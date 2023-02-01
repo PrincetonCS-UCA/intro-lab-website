@@ -39,7 +39,7 @@ You can set breakpoints within the program at the beginning of functions. This c
 
 You can set a breakpoint using the break command: 
     
-_(gdb) break main - this sets a breakpoint at the beginning of main()._
+_(gdb) break main_ - this sets a breakpoint at the beginning of main().
 
 You can tell gdb to continue execution past the breakpoint using the continue command:
     
@@ -60,6 +60,7 @@ Note: Make sure you set at least one breakpoint so the program doesn’t immedia
 You can execute the next line of your program using the next command: 
     
 _(gdb) next_
+    
 Note: next always stays at the same function call level. If the next line of your program calls another function, next will simply execute that line and then move to the next line in the original function. 
 
 You can execute the next line of your program, stepping into a called function, using the step command:
