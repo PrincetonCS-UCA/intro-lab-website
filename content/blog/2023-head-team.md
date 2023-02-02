@@ -1,12 +1,12 @@
 +++
 title = "Introducing Brett and Giao, the 2023 Head Intro Lab Team!"
 authors = ["Giao Vu Dinh", "Brett Zeligson", "Jérémie Lumbroso"]
-date = "2023-02-02"
+date = "2023-01-31"
 description = "This page introduces Brett Zeligson, Head Intro Lab TA, and Giao Vu Dinh, Assistant Head Intro Lab TA, who will be running the Intro Lab in 2023."
 tags = [
     "intro-lab",
     "people",
-    "leaders",
+    "head-team",
 ]
 +++
 

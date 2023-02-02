@@ -1,12 +1,12 @@
 +++
-title = "Introducing Brett and Giao, the 2023 Head Intro Lab Team!"
+title = "Diana Espindola and Austin Li talk about their experiences as Head Intro Lab Team in 2022"
 authors = ["Diana Espindola", "Austin Li", "Jérémie Lumbroso"]
-date = "2023-02-01"
+date = "2023-01-15"
 description = "This page introduces Diana Espindola, Head Intro Lab TA, and Austin Li, Assistant Head Intro Lab TA, who ran the Intro Lab in 2022."
 tags = [
     "intro-lab",
     "people",
-    "leaders",
+    "head-team",
 ]
 +++
 
