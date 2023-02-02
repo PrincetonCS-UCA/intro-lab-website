@@ -11,7 +11,7 @@ You have arrived at the website for Princeton University's Department of Compute
 
 # Announcements
 
-- 🥳 **Brett Zeligson '24 and Giao Vu Dinh '24 have just been hired respectively as the new Head and Assistant Head Lab TA!** Thanks to Diana Espindola '22 and Austin Li '22 for their stellar stewardship during 2022!
+- 🥳 **Brett Zeligson '24 and Giao Vu Dinh '24 have just been hired respectively as the new Head and Assistant Head Lab TA!** Thanks to Diana Espindola '23 and Austin Li '23 for their stellar stewardship during 2022!
 - 🙋 **Want to become an Intro Lab TA?** Either [read more about the job](/information-about-becoming-an-intro-lab-ta/) or [submit your notice of interest](https://ugradjobs.cs.princeton.edu/posts/2022-12-02-recruiting-ucas-for-spring-2023/), we'll be in touch when hiring opens in mid-January 2023!
 - ☃️ The Intro Lab is now closed for the semester. We will reopen at the beginning of February 2023. Happy holidays!
 
