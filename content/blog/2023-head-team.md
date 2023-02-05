@@ -15,7 +15,6 @@ tags = [
 ![Brett Zeligson](/images/people/zeligson.png)
 
 ## Tell us a bit about yourself, and what you have been doing at Princeton?
-Tell us a bit about yourself, and what you have been doing at Princeton?
 I’m a Junior majoring in Computer Science (BSE) pursuing certificates in Urban Studies, Finance, and Architecture/Engineering from West Orange, New Jersey. At Princeton, I’m involved in several student organizations including serving as an Advising Fellow for Matriculate, Head Web Design/Development Editor for The Daily Princetonian, and member of the Princeton Club Swim Team. In addition, I’m a Mathey Residential College Advisor in Mathey (go moose!) and serve on the Residential College Leadership Team. After graduating from Princeton, I’m planning on pursuing a career in Software Engineering, likely focused in the front-end direction.
 
 ## Why did you apply to be part of the Head Intro Lab Team?
