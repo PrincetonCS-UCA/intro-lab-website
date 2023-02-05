@@ -2,9 +2,6 @@
 
 You have arrived at the website for Princeton University's Department of Computer Science's Intro COS Lab **hosted in Lewis Library, rooms 121 and 122**. Come to get _debugging help_ with programming assignments in any of the courses of the introductory COS curriculum (COS 109, 126, 217, and 226).
 
-
-# The lab for Saturday, 2/4 will take place at the white tables by the vending machines in Lewis!!
-
 # Useful Links
 
 1. **[Read once before going to queue](/how-to-effectively-use-intro-lab-tas/)**
