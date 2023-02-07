@@ -33,6 +33,6 @@ You can also learn about [all the other Undergraduate Course Assistant (UCA) pos
 
 ## Here is some boring general administrativish information:
 
-- Pay grade: $16/hr
+- Pay grade: $17/hr
 - You are responsible for your own shifts -- so if you ever can't make a shift, you are responsible for finding a sub!
 - There are lab TAing shifts during reading period!
