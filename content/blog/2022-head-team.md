@@ -15,10 +15,13 @@ tags = [
 ![Diana Espindola](/images/people/de12.png)
 
 ## Tell us a bit about yourself, and what you have been doing at Princeton and what you plan to do afterwards
+I am a senior studying computer science that hails from Miami, FL. During my time at Princeton I have gotten involved with the Entrepreneurship Club, Whitman College Council, Scholars Institute Fellows Program, and Princeton Student Agencies. After graduation I will join Microsoft as a program manager to gain real-world experience prior to attending business school.
 
 ## Why did you apply to be part of the Head Intro Lab Team?
+Having worked as a 126 Lab TA, interviewer, and shadower, I wanted to increase my involvement in shaping the Intro Lab. Per the prior Head's recommendation, I applied and have been honored to be a part of maintaining such an amazing program!
 
 ## What are your takeaways from having served in 2022? What were the challenges you were proudest to overcome?
+My biggest takeaways from serving in 2022 are that you have to be level-headed yet flexible at all times and Austin is the greatest Assistant Head Intro Lab TA. My greatest challenge during my first semester was finding an appropriate way to incentivize consistent attendance. I found that laying down the rules in the beginning and staffing extra TAs are the most effective ways to curb this issue. Additionally, given the varied tasks requried of the role, I truly appreciated the wisdom and support Austin provided.
 
 # Austin Li '23, Assistant Head Intro Lab TA
 
