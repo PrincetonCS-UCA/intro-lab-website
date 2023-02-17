@@ -9,8 +9,6 @@ tags = [
 ]
 +++
 
-# How to use the Sub/Swap platform
-
 ## Overview
 
 The sub/swap platform was designed to make requesting shift covers fairer, fulfill more requests, and increase transparency. It provides an online marketplace where students can *buy-out* of attending their shifts using virtual currency. Prices are determined by the amount of notice given, thus incentivizing students to post their requests as early as possible. By using the platform, users no longer need to go through the hassle of finding someone to cover their shift or swapping shifts with someone else after posting their request. 
@@ -29,7 +27,7 @@ Requests are currently priced based on how many days in advance they are posted 
 | 6 | 32 |
 | 7+ | 30 |
 
-Every semester, users receive 400 points, plus any unused credits from prior semesters. Your credit count is displayed in the navigation bar.
+Every semester, users receive 400 credits, plus any unused credits from prior semesters. Your credit count is displayed in the navigation bar.
 
 ## How to create a request
 
