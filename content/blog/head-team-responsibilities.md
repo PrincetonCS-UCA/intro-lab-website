@@ -35,8 +35,9 @@ tags = [
 
 **During the semester:**
 
+- Create a direct channel of communication between the Head Team and the COS Introductory teaching faculty on Slack to ask questions pertaining to course specifics
 - make announcements to students and Intro Lab TAs
-  - when is the lab close for breaks
+  - when is the lab closed for breaks
   - when the lab closes for the term (Dean's Date)
   - when running a satisfaction survey
   - when job applications open up
