@@ -11,6 +11,7 @@ You have arrived at the website for Princeton University's Department of Compute
 
 # Announcements
 
+- 🏖️ The Intro Lab will be closed for midterms/spring break starting on **March 8th, 2023** and will reopen on **March 20th, 2023**
 - ☃️ The Intro Lab is open as of **Feb 3, 2023!**
 - 🙋 Hiring for Spring 2023 is now closed, but check back in the fall!
 
