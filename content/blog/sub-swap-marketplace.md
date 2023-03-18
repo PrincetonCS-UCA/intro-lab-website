@@ -33,15 +33,17 @@ Every semester, users receive 300 credits, plus any unused credits from prior se
 
 1. Every semester, Lab TA administrators will populate the platform with your permanent shift assignments, which you can view on the "Profile" page. 
 2. To create a request, click the "Request" button next to the shift and enter the date you want covered. If you have enough credits, it will display the price and you can submit the request.
+![image](https://user-images.githubusercontent.com/58230171/226137938-c68eceab-7fee-493b-bd43-dc76302fe39c.png)
 
 ## Accepting a request
 
 All active requests are displayed on the Dashboard. You can switch between different courses at the top. You can accept a request in two different ways:
-
+![image](https://user-images.githubusercontent.com/58230171/226137950-760132c8-cfa8-4b6e-951c-3efb16368e42.png)
 ### Sub
 
 Accepting a request as a sub means taking on an extra shift. Once accepted, the price for the shift will be credited to you and you can view it in the "Upcoming Accepted Requests" tab of your Profile page.
-
+![image](https://user-images.githubusercontent.com/58230171/226137956-3ce896f8-7578-468c-b476-1d3c22336d32.png)
 ### Swap
 
 If you want to attend a shift instead of one of your own, you can opt to swap. When you do, your chosen shift will be posted as a new request. You won't get any credits for accepting a request as a swap, and you won't be charged for the new request that is created.
+![image](https://user-images.githubusercontent.com/58230171/226137972-4524c7d8-b196-41e1-a3ae-2243ca69bcd7.png)
