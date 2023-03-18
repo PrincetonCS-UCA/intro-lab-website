@@ -27,12 +27,12 @@ Requests are currently priced based on how many days in advance they are posted 
 | 6 | 32 |
 | 7+ | 30 |
 
-Every semester, users receive 400 credits, plus any unused credits from prior semesters. Your credit count is displayed in the navigation bar.
+Every semester, users receive 300 credits, plus any unused credits from prior semesters. Your credit count is displayed in the navigation bar.
 
 ## How to create a request
 
 1. Every semester, Lab TA administrators will populate the platform with your permanent shift assignments, which you can view on the "Profile" page. 
-2. To create a request, click the "Request" button next to the shift and enter the date you want covered. You will be shown the price, and if you have enough credits, you can submit the request.
+2. To create a request, click the "Request" button next to the shift and enter the date you want covered. If you have enough credits, it will display the price and you can submit the request.
 
 ## Accepting a request
 
@@ -40,7 +40,7 @@ All active requests are displayed on the Dashboard. You can switch between diffe
 
 ### Sub
 
-Accepting a request as a sub means taking on an extra shift. Once accepted, the price for the shift will be credited to you and you can view it in the "Accepted Requests" tab of your Profile page.
+Accepting a request as a sub means taking on an extra shift. Once accepted, the price for the shift will be credited to you and you can view it in the "Upcoming Accepted Requests" tab of your Profile page.
 
 ### Swap
 
