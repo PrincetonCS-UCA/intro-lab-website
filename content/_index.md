@@ -9,8 +9,6 @@ You have arrived at the website for Princeton University's Department of Compute
 3. [Give your Intro Lab TA some feedback](https://forms.gle/m7BMZs36hTkADb8L8)
 4. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
-# Due to staffing issues on 5/4, the 2xx Lab TAs may arrive to the lab later than 9pm or may not be able to serve the lab at all. Please note that if you stay in the lab until 11pm there is a chance you still may not be helped. We apologize for this inconvenience!!
-
 # Announcements
 
 - 🌞 The Intro Lab will continue offering support throughout reading period for COS 126, 226, and 217 at the regular hours with the **last shifts taking place on Monday, 5/8**
