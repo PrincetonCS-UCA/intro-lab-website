@@ -17,7 +17,7 @@ You have arrived at the website for Princeton University's Department of Compute
 - ☃️ The Intro Lab is open as of **Feb 3, 2023!**
 - 🙋 Hiring for Spring 2023 is now closed, but check back in the fall!
 
-# Spring 2023 Schedule - All Times in EST
+# Fall 2023 Schedule - All Times in EST
 
 |                                   | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | :-------------------------------: | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
