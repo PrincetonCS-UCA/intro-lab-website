@@ -12,7 +12,7 @@ You have arrived at the website for Princeton University's Department of Compute
 # Announcements
 - 🐅 The Intro Lab will officially open for the Fall 2023 semester on **Sunday, 9/10 at 7pm**. On Sunday, 9/10, the Lab will be open from 7pm to 11pm. From Monday on, the lab will follow the schedule below.
 
-# Fall 2023 Schedule - All Times in EST
+# Fall 2023 Schedule
 
 |                                   | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | :-------------------------------: | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
