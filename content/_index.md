@@ -10,12 +10,7 @@ You have arrived at the website for Princeton University's Department of Compute
 4. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
-
 - 🐅 The Intro Lab will officially open for the Fall 2023 semester on **Sunday, 9/10 at 7pm**. On Sunday, 9/10, the Lab will be open from 7pm to 11pm. From Monday on, the lab will follow the schedule below.
-- 🌞 The Intro Lab will continue offering support throughout reading period for COS 126, 226, and 217 at the regular hours with the **last shifts taking place on Monday, 5/8**
-- 🏖️ The Intro Lab will be closed for midterms/spring break starting on **March 8th, 2023** and will reopen on **March 20th, 2023**
-- ☃️ The Intro Lab is open as of **Feb 3, 2023!**
-- 🙋 Hiring for Spring 2023 is now closed, but check back in the fall!
 
 # Fall 2023 Schedule - All Times in EST
 
