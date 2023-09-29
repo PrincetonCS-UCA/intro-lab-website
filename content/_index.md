@@ -10,7 +10,7 @@ You have arrived at the website for Princeton University's Department of Compute
 4. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
-- 🍂  The lab will be closed starting **Thursday, 10/12** for midterms/fall break. This means that the TA last shifts will be on Wednesday, 10/11. The lab will reopen on **Monday, October 23rd**.
+- 🍂  The lab will be closed starting **Thursday, 10/12** for midterms/fall break. This means that the last TA shifts will be on Wednesday, 10/11. The lab will reopen on **Monday, October 23rd**.
 - ✅ **We have concluded hiring intro lab TAs for Fall 2023.** Please check back in the spring for when applications open again!
 - 🐅 The Intro Lab will officially open for the Fall 2023 semester on **Sunday, 9/10 at 7pm**. On Sunday, 9/10, the Lab will be open from 7pm to 11pm. From Monday on, the lab will follow the schedule below.
 
