@@ -33,7 +33,7 @@ You can also learn about [all the other Undergraduate Course Assistant (UCA) pos
 
 ## Here is some boring general administrativish information:
 
-- Pay grade: $17/hr
+- Pay grade: $18/hr (starting 12/25/23)
 - Full-time TAs are hired for two 2-hour shifts per week, and sub TAs are hired for 8 shifts over the course of the semester. 
 - You are responsible for your own shifts -- so if you ever can't make a shift, you are responsible for finding a sub!
 - There are lab TAing shifts during reading period!
