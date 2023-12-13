@@ -49,7 +49,7 @@ tags = [
 
 **Once a year:**
 
-- hire next Intro COS Lab Head Team
+- hire next Intro COS Lab Head Team (end of Nov. - first week of Dec.)
 - transition checklist
   - add to the #lab-management channel in Slack
   - TigerUHR access for viewing and hiring applicants for 126 and 2xx Lab TAs
