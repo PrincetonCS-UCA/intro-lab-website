@@ -46,7 +46,7 @@ tags = [
   - Create and check absence and sub/swap forms that TAs fill out whenever they miss a shift. This way TAs can declare ahead of time if they are going to miss a shift and it's in our records
   - Check TA attendance regularly to follow up with TAs who haven’t been attending their shifts
     - [QTrack](https://github.com/PrincetonCS-UCA/QTrack) is a nice tool for looking at the students each TA has helped
-    - These [scripts](https://github.com/PrincetonCS-UCA/head-lab-ta-scripts) extremely useful for attendance statistics and information about how full the lab is during specific days/shifts
+    - These [scripts](https://github.com/PrincetonCS-UCA/head-lab-ta-scripts) are extremely useful for attendance statistics and information about how full the lab is during specific days/shifts
     - TAs that do not meet expectations can be fired
 - Collect feedback from TAs and students about the lab
 - Create blog posts and initiatives such as shadowing, apps, etc. to further the lab’s ability to help students
