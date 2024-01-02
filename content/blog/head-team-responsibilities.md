@@ -43,20 +43,20 @@ tags = [
   - When running a satisfaction survey
   - When job applications open up
 - Check attendance
-  - Create and check absence and sub/swap forms that TAs fill out whenever they miss a shift. This way TAs can declare ahead of time if they are going to miss a shift and it's in our records.
-  - Check TA attendance regularly to follow up with TAs who haven’t been attending their shifts.
+  - Create and check absence and sub/swap forms that TAs fill out whenever they miss a shift. This way TAs can declare ahead of time if they are going to miss a shift and it's in our records
+  - Check TA attendance regularly to follow up with TAs who haven’t been attending their shifts
     - [QTrack](https://github.com/PrincetonCS-UCA/QTrack) is a nice tool for looking at the students each TA has helped
-    - These [scripts](https://github.com/PrincetonCS-UCA/head-lab-ta-scripts) extremely useful for attendance statistics and information about how full the lab is during specific days/shifts.
-    - TAs that do not meet expectations can be fired.
-- Collect feedback from TAs and students about the lab.
-- Create blog posts and initiatives such as shadowing, apps, etc. to further the lab’s ability to help students.
+    - These [scripts](https://github.com/PrincetonCS-UCA/head-lab-ta-scripts) extremely useful for attendance statistics and information about how full the lab is during specific days/shifts
+    - TAs that do not meet expectations can be fired
+- Collect feedback from TAs and students about the lab
+- Create blog posts and initiatives such as shadowing, apps, etc. to further the lab’s ability to help students
 
 **Once a year:**
 
 - Hire the next Intro COS Lab Head Team (end of Nov. - first week of Dec.)
 - Build a transition checklist
-  - Add the new Head TAs to the #lab-management, #lab-faculty, and #payroll-management channels in Slack.
-  - Transfer TigerUHR access to new Head TAs for viewing and hiring applicants for COS 126 and 2xx Lab TAs.
+  - Add the new Head TAs to the #lab-management, #lab-faculty, and #payroll-management channels in Slack
+  - Transfer TigerUHR access to new Head TAs for viewing and hiring applicants for COS 126 and 2xx Lab TAs
   - Add new Head TAs to the PrincetonCS-UCA Github org so can update website
-  - Get new Head Lab TAs a labqueue API key.
-  - Make sure the new Head Lab TAs are hired in the Undergraduate Manager position on TimesheetX.
+  - Get new Head Lab TAs a labqueue API key
+  - Make sure the new Head Lab TAs are hired in the Undergraduate Manager position on TimesheetX
