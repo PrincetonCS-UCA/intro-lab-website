@@ -1,7 +1,7 @@
 +++
 title = "Responsibilities of the Intro COS Lab Head Team"
 authors = [“Brett Zeligson”, "Xiaoyan Li", "Jérémie Lumbroso", "Austin Li"]
-date = "2023-1-2"
+date = "2023-01-02"
 description = "This page summarizes the responsibilities of the Intro COS Lab Head Team"
 tags = [
     "intro-lab",
