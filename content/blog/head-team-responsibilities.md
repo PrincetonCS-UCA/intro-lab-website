@@ -1,8 +1,8 @@
 +++
 title = "Responsibilities of the Intro COS Lab Head Team"
-authors = ["Xiaoyan Li", "Jérémie Lumbroso", "Austin Li"]
+authors = [“Brett Zeligson”, "Xiaoyan Li", "Jérémie Lumbroso", "Austin Li"]
 date = "2023-12-13"
-description = "This page recapitulates all the responsabilities of the Head Team for the Intro COS Lab."
+description = "This page summarizes the responsibilities of the Intro COS Lab Head Team"
 tags = [
     "intro-lab",
     "job-description",
@@ -12,47 +12,51 @@ tags = [
 
 **Once a semester:**
 
-- interview Lab TAs
-  - hire [interviewers](https://introlab.cs.princeton.edu/responsibilities-of-the-intro-cos-lab-interviewers/)
-  - schedule interviews
-    - go through TigerUHR applications and select students to interview; students can list if 126 Lab TA or 226/217 Lab TA is one of their most preferred
-    - note that for returning Lab TAs, we don't reinterview; just check their attendance from last semester and make a decision
-  - create interview questions
-    - usually use an assignment and add some bugs to it
-    - for 126, there is just a 126 debugging; takes about 30 minutes
-    - for 226/217, there is a 226 debugging, 217 debugging, 226 conceptual, 217 conceptual question; takes about 45 minutes, probably give 1 hour to be safe
-  - use rubric
-- hire lab TAs
-  - hire on TigerUHR
-  - 126: probably need around 25 full time
-  - 226/217: probably need around 30-35 full time
-  - a few subs for each is good
-- schedule shifts
-  - use [scheduling tool](https://labta-scheduler.herokuapp.com/); some manual adjustment may be necessary afterwards
-  - things to keep in mind: 126 assignments are due Sunday, 226 assignments are due Monday, 217 assignments are due Tuesday/Thursday (check course website for exact schedule)
-- train new Intro Lab TAs
-- add new Intro Lab TAs to the Slack
+- Interview Lab TAs
+  - Hire [interviewers](https://introlab.cs.princeton.edu/responsibilities-of-the-intro-cos-lab-interviewers/)
+  - Schedule interviews
+    - Go through TigerUHR applications and select students to interview; students can list if 126 Lab TA or 226/217 Lab TA is one of their most preferred
+    - Note that for returning Lab TAs, we don't reinterview; just check their attendance from last semester and make a decision
+  - Create interview questions
+    - Usually use an assignment and add some bugs to it
+    - The COS 126 interview consists of a COS 126 debugging questions and takes about 30 minutes
+    - The COS 226/217 interview consists of a COS 226 debugging, COS 217 debugging, COS 226 conceptual, and COS 217 conceptual question. The interview takes about 45 minutes, but interviews should set aside 1 hour to be safe
+  - Use rubric
+- Hire Intro Lab TAs
+  - Hire using TigerUHR
+  - 126: probably need around 30-35 full time
+  - 226/217: probably need around 35-40 full time
+  - A few subs for each is good
+- Schedule shifts
+  - Use the [scheduling tool](https://labta-scheduler.herokuapp.com/); some manual adjustment may be necessary afterwards
+  - Check the course websites and communicate with course staff to determine typical assignment deadlines for each course such that staffing is more substantial prior to deadlines.
+- Train new Intro Lab TAs
+- Add new Intro Lab TAs to the Slack
 
 **During the semester:**
 
 - Create a direct channel of communication between the Head Team and the COS Introductory teaching faculty on Slack to ask questions pertaining to course specifics
-- make announcements to students and Intro Lab TAs
-  - when is the lab closed for breaks
-  - when the lab closes for the term (Dean's Date)
-  - when running a satisfaction survey
-  - when job applications open up
-- check attendance
-  - create an absence form that TAs fill out whenever they miss a shift, regardless of if they get a sub/swap; this way TAs can declare ahead of time if they are going to miss, and it's in our records
-  - [QTrack](https://github.com/PrincetonCS-UCA/QTrack) is a nice tool for looking at the students each TA has helped 
-  - these [scripts](https://github.com/PrincetonCS-UCA/head-lab-ta-scripts) are useful for attendance and related statistics
-- compile report to determine Lab TA job assiduity
+- Make announcements to students, Intro Lab TAs, and course faculty:
+  - When the lab opens for the term 
+  - When is the lab closed for breaks or holidays
+  - When the lab closes for the term (Dean's Date)
+  - When running a satisfaction survey
+  - When job applications open up
+- Check attendance
+  - Create and check absence and sub/swap forms that TAs fill out whenever they miss a shift. This way TAs can declare ahead of time if they are going to miss a shift and it's in our records.
+  - Check TA attendance regularly to follow up with TAs who haven’t been attending their shifts.
+    - [QTrack](https://github.com/PrincetonCS-UCA/QTrack) is a nice tool for looking at the students each TA has helped
+    - These [scripts](https://github.com/PrincetonCS-UCA/head-lab-ta-scripts) extremely useful for attendance statistics and information about how full the lab is during specific days/shifts.
+    - TAs that do not meet expectations can be fired.
+- Collect feedback from TAs and students about the lab.
+- Create blog posts and initiatives such as shadowing, apps, etc. to further the lab’s ability to help students.
 
 **Once a year:**
 
-- hire next Intro COS Lab Head Team (end of Nov. - first week of Dec.)
-- transition checklist
-  - add to the #lab-management channel in Slack
-  - TigerUHR access for viewing and hiring applicants for 126 and 2xx Lab TAs
-  - add to the PrincetonCS-UCA Github org so can update website
-  - get labqueue API key
-  - make sure hired as Undergraduate Manager on TimesheetX
+- Hire the next Intro COS Lab Head Team (end of Nov. - first week of Dec.)
+- Build a transition checklist
+  - Add the new Head TAs to the #lab-management, #lab-faculty, and #payroll-management channels in Slack.
+  - Transfer TigerUHR access to new Head TAs for viewing and hiring applicants for COS 126 and 2xx Lab TAs.
+  - Add new Head TAs to the PrincetonCS-UCA Github org so can update website
+  - Get new Head Lab TAs a labqueue API key.
+  - Make sure the new Head Lab TAs are hired in the Undergraduate Manager position on TimesheetX.
