@@ -10,6 +10,7 @@ You have arrived at the website for Princeton University's Department of Compute
 4. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
+- 🌸 The lab will be **closed** on **Thursday, March 7th** for Spring Recess and will **reopen** on **Monday, March 18th**.
 - ⛄ The lab will **open** on **Friday, February 2nd** for the Spring semester.
 - For this semester, the COS 226/217 lab room on Tuesdays will be in Lewis room 138. 
 
