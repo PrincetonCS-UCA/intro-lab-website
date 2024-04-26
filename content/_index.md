@@ -1,4 +1,4 @@
-**Head TAs: Pascal Nabare & Andy Nguyen
+Head TAs: Pascal Nabare & Andy Nguyen
 
 You have arrived at the website for Princeton University's Department of Computer Science's Intro COS Lab **hosted in Lewis Library, rooms 121 and 122**. Come to get _debugging help_ with programming assignments in any of the courses of the introductory COS curriculum (COS 109, 126, 217, and 226).
 
@@ -10,8 +10,8 @@ You have arrived at the website for Princeton University's Department of Compute
 4. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
-- 🌸 The lab will be **closed** on **Thursday, March 7th** for Spring Recess and will **reopen** on **Monday, March 18th**.
-- ⛄ The lab will **open** on **Friday, February 2nd** for the Spring semester.
+- 🌸 The lab will remain open throughout the Reading period.
+- ⛄ The lab will **close** on **Monday, May 6th** for the Spring semester.
 - For this semester, the COS 226/217 lab room on Tuesdays will be in Lewis room 138. 
 
 # Spring 2024 Schedule
