@@ -1,6 +1,6 @@
 Head TAs: Pascal Nabare & Andy Nguyen
 
-You have arrived at the website for Princeton University's Department of Computer Science's Intro COS Lab **hosted in Lewis Library, rooms 121 and 122**. Come to get _debugging help_ with programming assignments in any of the courses of the introductory COS curriculum (COS 109, 126, 217, and 226).
+You have arrived at the website for Princeton University's Department of Computer Science's Intro COS Lab **hosted in Lewis Library, rooms 121, 122 and 134**. Come to get _debugging help_ with programming assignments in any of the courses of the introductory COS curriculum (COS 109, 126, 217, and 226).
 
 # Useful Links
 
@@ -10,9 +10,8 @@ You have arrived at the website for Princeton University's Department of Compute
 4. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
-- 🌸 The lab will remain open throughout the Reading period.
-- ⛄ The lab will **close** on **Monday, May 6th** for the Spring semester.
-- For this semester, the COS 226/217 lab room on Tuesdays will be in Lewis room 138. 
+- 🌸 The lab will be open on **Friday, September 6** for the Fall 2024 Semester.
+- ⛄ For this semester, the COS 226/217 lab room on Fridays and Wednesdays will be in Lewis room 134. 
 
 # Spring 2024 Schedule
 
@@ -22,4 +21,4 @@ You have arrived at the website for Princeton University's Department of Compute
 
 Lab TAs will be available in-person _ONLY_ in Lewis Library, rooms 121 and 122. Once you arrive in Lewis, to request help from the Lab TAs, go to [labqueue.io](https://www.labqueue.io/queues/intro-cs-lab/queue/). Please note that Lab TAs focus _ONLY_ on debugging questions with existing code, all other questions should be redirected to Ed or office hours.
 
--- Last updated April 26th, 2024.
+-- Last updated September 4th, 2024.
