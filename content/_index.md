@@ -18,8 +18,8 @@ You have arrived at the website for Princeton University's Department of Compute
       - Lewis Room 122: **COS 226/217**
     
     **Wednesday, Friday:**
+      - Lewis Room 134: **COS 126**
       - Lewis Room 122: **COS 226/217**
-      - Lewis Room 134: **COS 226/217**
     
     **Thursday:**
       - Lewis Room 121: **COS 126**
