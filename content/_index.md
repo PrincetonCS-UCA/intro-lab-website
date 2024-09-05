@@ -11,7 +11,19 @@ You have arrived at the website for Princeton University's Department of Compute
 
 # Announcements
 - 🌸 The lab will be open on **Friday, September 6** for the Fall 2024 Semester.
-- ⛄ For this semester, the COS 226/217 lab room on Fridays and Wednesdays will be in Lewis room 134. 
+- ⛄ For this semester, the room schedule will be as follows:
+    Monday, Tuesday, Saturday, Sunday:
+      Lewis Room 121: COS 126
+      Lewis Room 122: COS 226/217
+  
+    Wednesday, Friday:
+      Lewis Room 122: COS 226/217
+      Lewis Room 134: COS 226/217
+    
+    Thursday:
+      Lewis Room 121: COS 126
+      Lewis Room 138: COS 226/217
+
 
 # Fall 2024 Schedule
 
