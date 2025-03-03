@@ -11,7 +11,7 @@ You have arrived at the website for Princeton University's Department of Compute
 5. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
-- The lab will be open starting on **Friday, January 31** for the Spring 2025 semester
+- 🌸 The lab will be **closed** on **Thursday, March 6** for Spring Recess and will **reopen** on **Monday, March 17**.
 - The lab will be closed for the semester starting on **Tuesday, May 6** 
 - For this semester, the room schedule will be as follows (with a few exceptions):
 
