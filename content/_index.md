@@ -11,8 +11,12 @@ You have arrived at the website for Princeton University's Department of Compute
 5. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
-- 🌸 The lab will be **closed** on **Thursday, March 6** for Spring Recess and will **reopen** on **Monday, March 17**.
-- The lab will be closed for the semester starting on **Tuesday, May 6** 
+- The COS 126/109 part of the Lab will remain **open** until **Tuesday, May 13** and will be **closed** for the semester starting on **Wednesday, May 14**. The location for the lab will be Lewis Library 121 except for:
+
+  **Sunday, May 11**:
+   -  Lewis Library 122
+
+- The COS 226/217 part of the lab will be **closed** for the semester starting on **Tuesday, May 6** 
 - For this semester, the room schedule will be as follows (with a few exceptions):
 
   **Monday, Wednesday, Thursday, Friday, Saturday, Sunday**:
