@@ -11,31 +11,21 @@ You have arrived at the website for Princeton University's Department of Compute
 5. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
-- The COS 126/109 part of the Lab will remain **open** until **Tuesday, May 13** and will be **closed** for the semester starting on **Wednesday, May 14**. The location for the lab will be Lewis Library 121 except for:
+- The COS 126/109 part of the Lab will remain **open** until **Tuesday, May 13** and will be **closed** for the semester starting on **Wednesday, May 14**. The locations for the lab will be:
+
+  **Wednesday, May 7 - Friday, May 9**:
+   -  Lewis Library 138
+
+  **Saturday, May 10**:
+   -  Lewis Library 121
 
   **Sunday, May 11**:
    -  Lewis Library 122
 
+  **Monday, May 12 - Tuesday, May 13**:
+   -  Lewis Library 121
+
 - The COS 226/217 part of the lab will be **closed** for the semester starting on **Tuesday, May 6** 
-- For this semester, the room schedule will be as follows (with a few exceptions):
-
-  **Monday, Wednesday, Thursday, Friday, Saturday, Sunday**:
-   - COS 126/109: Lewis Library 121
-   - COS 226/217: Lewis Library 122
-
-  **Tuesday**:
-   - COS 126/109: Lewis Library 134
-   - COS 226/217: Lewis Library 138
-
-- Exceptions:
-
-  **Saturday, February 1**:
-   - COS 126/109: Friend Center 101
-   - COS 226/217: Friend Center 101
-
-  **Tuesday, February 11; Friday, April 18; Saturday, April 19**:
-   - COS 126/109: Lewis Library 120
-   - COS 226/217: Lewis Library 138
 
 
 # Spring 2025 Schedule
