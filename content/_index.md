@@ -11,9 +11,9 @@ You have arrived at the website for Princeton University's Department of Compute
 5. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
-- The lab will open starting on **Friday, September 5** for the Fall 2025 semester
-- For this semester, both the COS 126 and the COS 226/217 labs will take place in the **Computer Science Building, Room 105**.
 
+-   🌸 The lab will be **closed** on **Thursday, October 9** for Fall Recess and will **reopen** on **Monday, October 20**.
+-   For this semester, both the COS 126 and the COS 226/217 labs will take place in the **Computer Science Building, Room 105**.
 
 # Fall 2025 Schedule
 
