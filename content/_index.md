@@ -12,7 +12,7 @@ You have arrived at the website for Princeton University's Department of Compute
 
 # Announcements
 
--   🌸 The lab will be **closed** on **Thursday, October 9** for Fall Recess and will **reopen** on **Monday, October 20**.
+-   🌸 The lab will be **closed** starting on **Tuesday, November 25** for Thanksgiving break and will **reopen** on **Monday, December 1**.
 -   For this semester, both the COS 126 and the COS 226/217 labs will take place in the **Computer Science Building, Room 105**.
 
 # Fall 2025 Schedule
@@ -23,4 +23,4 @@ You have arrived at the website for Princeton University's Department of Compute
 
 Lab TAs will be available in-person _ONLY_ in the Computer Science Building. Once you arrive there, to request help from the Lab TAs, go to [labqueue](https://forms.gle/6PC1NPCyHEpeucF16). Please note that Lab TAs focus _ONLY_ on debugging questions with existing code, all other questions should be redirected to Ed or office hours.
 
--- Last updated September 4, 2025.
+-- Last updated November 23, 2025.
