@@ -12,8 +12,9 @@ You have arrived at the website for Princeton University's Department of Compute
 
 # Announcements
 
--   🌸 The lab will be **closed** starting on **Tuesday, November 25** for Thanksgiving break and will **reopen** on **Monday, December 1**.
--   For this semester, both the COS 126 and the COS 226/217 labs will take place in the **Computer Science Building, Room 105**.
+- 🌸 The lab will be **closed** for the semester starting on **Sunday, December 14, 2025**.
+- 🎉 **Thank you to all the TAs and students for making this semester a success. Enjoy your break and see you next semester!**
+- For this semester, both the COS 126 and the COS 226/217 labs will take place in the **Computer Science Building, Room 105**.
 
 # Fall 2025 Schedule
 
