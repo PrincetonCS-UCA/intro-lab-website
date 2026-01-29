@@ -1,6 +1,6 @@
 Head TAs: Yash Thakkar & Erik Lawani
 
-You have arrived at the website for Princeton University's Department of Computer Science's Intro COS Lab **hosted in the Computer Science Building**. Come to get _debugging help_ with programming assignments in any of the courses of the introductory COS curriculum (COS 109, 126, 217, and 226).
+You have arrived at the website for Princeton University's Department of Computer Science's Intro COS Lab **hosted in the Computer Science Building**. Come to get _debugging help_ with programming assignments in any of the courses of the introductory COS curriculum (COS 126, 217, and 226).
 
 # Useful Links
 
