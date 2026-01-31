@@ -7,8 +7,9 @@ You have arrived at the website for Princeton University's Department of Compute
 1. **[Read once before going to queue](/how-to-effectively-use-intro-lab-tas/)**
 2. [Access the Intro Lab Queue Form](https://forms.gle/HoweB7L1niiaPyrb7)
 3. [View the Lab Queue](https://docs.google.com/spreadsheets/d/1fJL_X6WVsZn4hgeOJGnK_GDsTp-mjIZwFVY0x2CX44M/edit?usp=sharing)
-4. [Give your Intro Lab TA some feedback](https://forms.gle/nAmAeqoAbWPQQfc28)
-5. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
+4. [Lab TA Shift Attendance Form (Lab TAs only)] (https://docs.google.com/forms/d/15oM53_VLYSN1rih6Gh42DIm1u8ktV8P7yTC1Si7mFkM/edit)
+5. [Give your Intro Lab TA some feedback](https://forms.gle/nAmAeqoAbWPQQfc28)
+6. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Announcements
 
