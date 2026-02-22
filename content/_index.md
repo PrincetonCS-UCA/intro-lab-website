@@ -4,7 +4,7 @@ You have arrived at the website for Princeton University's Department of Compute
 
 ## Weather Update (Winter Storm Notice)
 
-Due to the ongoing winter storm, **Intro COS Lab will be held remotely on Feb 22nd, 2026.**.  
+Due to the ongoing winter storm, **Intro COS Lab will be held remotely on Feb 22nd, 2026**.  
 The in-person lab in the Computer Science Building (Room 105) will be closed.
 
 Students in the following courses should join their respective Zoom rooms to receive debugging help from Lab TAs during the regularly scheduled lab hours:
