@@ -2,6 +2,26 @@ Head TAs: Yash Thakkar & Erik Lawani
 
 You have arrived at the website for Princeton University's Department of Computer Science's Intro COS Lab **hosted in the Computer Science Building**. Come to get _debugging help_ with programming assignments in any of the courses of the introductory COS curriculum (COS 126, 217, and 226).
 
+## Weather Update (Winter Storm Notice)
+
+Due to the ongoing winter storm, **Intro COS Lab will be held remotely on Feb 22nd, 2026.**.  
+The in-person lab in the Computer Science Building (Room 105) will be closed.
+
+Students in the following courses should join their respective Zoom rooms to receive debugging help from Lab TAs during the regularly scheduled lab hours:
+
+- **COS 217 / COS 226 (2xx) Students:**  
+  https://princeton.zoom.us/j/92649952516
+
+- **COS 126 Students:**  
+  https://princeton.zoom.us/j/99629975015
+
+After joining the Zoom meeting:
+1. Please remain in the **main meeting room lobby**.
+2. Wait for a Lab TA to admit you.
+3. A Lab TA will assign you to a breakout room when they are ready to assist you.
+
+Please do **not** join breakout rooms on your own. Lab TAs will coordinate all breakout room assignments.
+
 # Useful Links
 
 1. **[Read once before going to queue](/how-to-effectively-use-intro-lab-tas/)**
