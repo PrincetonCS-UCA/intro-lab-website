@@ -13,7 +13,7 @@ You have arrived at the website for Princeton University's Department of Compute
 
 # Announcements
 
-- 🌸 The lab will be **open** for the semester starting on **Friday, Jan 30, 2026 at 7 pm**.
+- 🌸 The lab will be **closed** for spring break and will reopen on **Sunday, March 15, 2026, at 5 pm**.
 - For this semester, both the COS 126 and the COS 226/217 labs will take place in the **Computer Science Building, Room 105**.
 
 # Spring 2026 Schedule
