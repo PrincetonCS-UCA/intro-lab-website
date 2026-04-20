@@ -2,6 +2,11 @@ Head TAs: Yash Thakkar & Erik Lawani
 
 You have arrived at the website for Princeton University's Department of Computer Science's Intro COS Lab **hosted in the Computer Science Building**. Come to get _debugging help_ with programming assignments in any of the courses of the introductory COS curriculum (COS 126, 217, and 226).
 
+# Announcements
+
+- The final day of the lab for the spring semester will be **Dean's Date, May 5, 2026**.
+- For this semester, both the COS 126 and the COS 226/217 labs will take place in the **Computer Science Building, Room 105**.
+
 # Useful Links
 
 1. **[Read once before going to queue](/how-to-effectively-use-intro-lab-tas/)**
@@ -10,11 +15,6 @@ You have arrived at the website for Princeton University's Department of Compute
 4. [Lab TA Shift Attendance Form (Lab TAs only)](https://docs.google.com/forms/d/e/1FAIpQLScs_MQqzxcz8PMHp5wwvCuYzRdRv5_12PVD_c0YL7jLUTfpWg/viewform?usp=dialog)
 5. [Give your Intro Lab TA some feedback](https://forms.gle/nAmAeqoAbWPQQfc28)
 6. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
-
-# Announcements
-
-- 🌸 The lab will be **closed** for spring break and will reopen on **Sunday, March 15, 2026, at 5 pm**.
-- For this semester, both the COS 126 and the COS 226/217 labs will take place in the **Computer Science Building, Room 105**.
 
 # Spring 2026 Schedule
 
