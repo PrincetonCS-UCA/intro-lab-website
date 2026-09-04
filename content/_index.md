@@ -22,6 +22,6 @@ You have arrived at the website for Princeton University's Department of Compute
 | :-------------------------------: | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
 | 126 and 226/217 lab TAs available | 7-11pm | 7-11pm  |  7-11pm   |  7-11pm  | 7-11pm |  3-7pm   | 5-11pm |
 
-Lab TAs will be available in-person _ONLY_ in the Computer Science Building. Once you arrive there, to request help from the Lab TAs, go to [TigerHelp](https://tigerhelp.cs.princeton.edu/). Please note that Lab TAs focus _ONLY_ on debugging questions with existing code; all other questions should be redirected to Ed or office hours.
+Lab TAs will be available in-person _ONLY_ in the Computer Science Building. Once you arrive there, to request help from the Lab TAs. Please note that Lab TAs focus _ONLY_ on debugging questions with existing code; all other questions should be redirected to Ed or office hours.
 
--- Last updated September 1, 2026.
+-- Last updated September 4, 2026.
