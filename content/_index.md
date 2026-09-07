@@ -10,11 +10,9 @@ You have arrived at the website for Princeton University's Department of Compute
 # Useful Links
 
 1. **[Read once before going to queue](/how-to-effectively-use-intro-lab-tas/)**
-2. [Access the Intro Lab Queue Form](https://forms.gle/xcfwyDfDWAYsQyJ76)
-3. [View the Lab Queue](https://docs.google.com/spreadsheets/d/1URQkdgB6XXfNjElwfBcNFYH3grazi8tw-pZLGwCbIlE/edit?usp=sharing)
-4. [Lab TA Shift Attendance Form (Lab TAs only)](https://docs.google.com/forms/d/e/1FAIpQLScs_MQqzxcz8PMHp5wwvCuYzRdRv5_12PVD_c0YL7jLUTfpWg/viewform?usp=dialog)
-5. [Give your Intro Lab TA some feedback](https://forms.gle/nAmAeqoAbWPQQfc28)
-6. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
+2. [Join the Lab Queue on TigerHelp](https://tigerhelp.cs.princeton.edu/)
+3. [Give your Intro Lab TA some feedback](https://forms.gle/nAmAeqoAbWPQQfc28)
+4. [Information about becoming an Intro Lab TA (and get paid!)](/information-about-becoming-an-intro-lab-ta/)
 
 # Fall 2026 Schedule
 
@@ -22,6 +20,6 @@ You have arrived at the website for Princeton University's Department of Compute
 | :-------------------------------: | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
 | 126 and 226/217 lab TAs available | 7-11pm | 7-11pm  |  7-11pm   |  7-11pm  | 7-11pm |  3-7pm   | 5-11pm |
 
-Lab TAs will be available in-person _ONLY_ in the Computer Science Building. Once you arrive there, to request help from the Lab TAs. Please note that Lab TAs focus _ONLY_ on debugging questions with existing code; all other questions should be redirected to Ed or office hours.
+Lab TAs will be available in-person _ONLY_ in the Computer Science Building. Once you arrive there, to request help from the Lab TAs, go to [TigerHelp](https://tigerhelp.cs.princeton.edu/). Please note that Lab TAs focus _ONLY_ on debugging questions with existing code; all other questions should be redirected to Ed or office hours.
 
--- Last updated September 4, 2026.
+-- Last updated September 7, 2026.
