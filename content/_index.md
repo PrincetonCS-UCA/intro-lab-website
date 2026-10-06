@@ -4,6 +4,7 @@ You have arrived at the website for Princeton University's Department of Compute
 
 # Announcements
 
+- The lab will be **closed** for fall break starting **Friday, Oct 16, 2026** and will reopen on **Monday, Oct 26, 2026**.
 - The lab will be **open** for the semester starting on **Friday, Sep 4, 2026 at 7 pm**.
 - For this semester, both the COS 126 and the COS 226/217 labs will take place in the **Computer Science Building, Room 105**.
 
@@ -22,4 +23,4 @@ You have arrived at the website for Princeton University's Department of Compute
 
 Lab TAs will be available in-person _ONLY_ in the Computer Science Building. Once you arrive there, to request help from the Lab TAs, go to [TigerHelp](https://tigerhelp.cs.princeton.edu/). Please note that Lab TAs focus _ONLY_ on debugging questions with existing code; all other questions should be redirected to Ed or office hours.
 
--- Last updated September 7, 2026.
+-- Last updated October 6, 2026.
